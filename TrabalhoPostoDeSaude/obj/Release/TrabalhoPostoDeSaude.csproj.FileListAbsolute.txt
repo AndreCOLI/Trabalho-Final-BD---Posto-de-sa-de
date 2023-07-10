@@ -1,0 +1,9 @@
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\bin\Release\TrabalhoPostoDeSaude.exe.config
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\bin\Release\TrabalhoPostoDeSaude.exe
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\bin\Release\TrabalhoPostoDeSaude.pdb
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.Form1.resources
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.Properties.Resources.resources
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.csproj.GenerateResource.cache
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.csproj.CoreCompileInputs.cache
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.exe
+C:\Users\Andeh\source\repos\TrabalhoPostoDeSaude\TrabalhoPostoDeSaude\obj\Release\TrabalhoPostoDeSaude.pdb
